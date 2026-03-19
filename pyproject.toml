@@ -1,0 +1,17 @@
+[project]
+name = "smoke-detection-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "opencv-python>=4.13.0.92",
+    "pandas>=2.3.3",
+    "pillow>=12.1.1",
+    "roboflow>=1.2.16",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.3",
+    "ultralytics>=8.4.23",
+]

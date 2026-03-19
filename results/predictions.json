@@ -1,0 +1,341 @@
+[
+  {
+    "image": "..\\data\\test_images\\fire\\fire_campfire.jpg",
+    "image_name": "fire_campfire.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.2041,
+        "bbox_xyxy": [
+          564.4,
+          347.5,
+          636.0,
+          382.4
+        ]
+      }
+    ],
+    "num_detections": 1,
+    "inference_time_ms": 85.8
+  },
+  {
+    "image": "..\\data\\test_images\\fire\\train_batch0.jpg",
+    "image_name": "train_batch0.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.8313,
+        "bbox_xyxy": [
+          1536.2,
+          1527.0,
+          1651.7,
+          1773.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.6603,
+        "bbox_xyxy": [
+          1596.2,
+          245.8,
+          1710.6,
+          476.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.592,
+        "bbox_xyxy": [
+          235.5,
+          972.2,
+          296.0,
+          1168.6
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.5528,
+        "bbox_xyxy": [
+          36.9,
+          1528.5,
+          179.3,
+          1916.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.42,
+        "bbox_xyxy": [
+          22.2,
+          21.2,
+          87.6,
+          403.5
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.3679,
+        "bbox_xyxy": [
+          889.8,
+          599.4,
+          955.8,
+          946.1
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.282,
+        "bbox_xyxy": [
+          745.0,
+          582.0,
+          957.7,
+          953.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.2488,
+        "bbox_xyxy": [
+          1254.7,
+          1049.4,
+          1353.3,
+          1281.3
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.2189,
+        "bbox_xyxy": [
+          1690.5,
+          1006.3,
+          1919.3,
+          1119.7
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.1146,
+        "bbox_xyxy": [
+          0.0,
+          508.3,
+          76.4,
+          928.3
+        ]
+      }
+    ],
+    "num_detections": 10,
+    "inference_time_ms": 55.4
+  },
+  {
+    "image": "..\\data\\test_images\\fire\\val_pred_0.jpg",
+    "image_name": "val_pred_0.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.7124,
+        "bbox_xyxy": [
+          1134.4,
+          806.1,
+          1387.2,
+          886.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.6183,
+        "bbox_xyxy": [
+          1012.4,
+          1588.5,
+          1176.3,
+          1874.5
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.5794,
+        "bbox_xyxy": [
+          94.8,
+          1650.4,
+          159.2,
+          1820.3
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.4741,
+        "bbox_xyxy": [
+          606.7,
+          1604.9,
+          699.7,
+          1758.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.474,
+        "bbox_xyxy": [
+          425.9,
+          595.1,
+          466.1,
+          711.6
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.4604,
+        "bbox_xyxy": [
+          234.1,
+          239.0,
+          347.6,
+          368.5
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.4372,
+        "bbox_xyxy": [
+          496.8,
+          989.8,
+          936.0,
+          1183.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.3232,
+        "bbox_xyxy": [
+          185.8,
+          1693.0,
+          285.2,
+          1836.1
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.2072,
+        "bbox_xyxy": [
+          1165.1,
+          62.8,
+          1227.7,
+          214.5
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.2029,
+        "bbox_xyxy": [
+          331.2,
+          1008.3,
+          456.7,
+          1218.3
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "fire",
+        "confidence": 0.1574,
+        "bbox_xyxy": [
+          1649.6,
+          290.5,
+          1762.8,
+          405.2
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.1286,
+        "bbox_xyxy": [
+          977.1,
+          1011.3,
+          1253.6,
+          1168.9
+        ]
+      }
+    ],
+    "num_detections": 12,
+    "inference_time_ms": 51.0
+  },
+  {
+    "image": "..\\data\\test_images\\normal\\normal_landscape.jpg",
+    "image_name": "normal_landscape.jpg",
+    "detections": [],
+    "num_detections": 0,
+    "inference_time_ms": 32.3
+  },
+  {
+    "image": "..\\data\\test_images\\normal\\normal_mountain.jpg",
+    "image_name": "normal_mountain.jpg",
+    "detections": [],
+    "num_detections": 0,
+    "inference_time_ms": 18.1
+  },
+  {
+    "image": "..\\data\\test_images\\smoke\\smoke_chimney.jpg",
+    "image_name": "smoke_chimney.jpg",
+    "detections": [],
+    "num_detections": 0,
+    "inference_time_ms": 23.2
+  },
+  {
+    "image": "..\\data\\test_images\\smoke\\val_pred_1.jpg",
+    "image_name": "val_pred_1.jpg",
+    "detections": [
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.5287,
+        "bbox_xyxy": [
+          157.9,
+          506.5,
+          254.9,
+          726.8
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.4145,
+        "bbox_xyxy": [
+          1336.4,
+          619.9,
+          1446.4,
+          934.6
+        ]
+      },
+      {
+        "class_id": 1,
+        "class_name": "smoke",
+        "confidence": 0.1229,
+        "bbox_xyxy": [
+          41.6,
+          1300.8,
+          376.5,
+          1424.7
+        ]
+      }
+    ],
+    "num_detections": 3,
+    "inference_time_ms": 46.3
+  }
+]
